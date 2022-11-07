@@ -1,4 +1,3 @@
-# html_css_2_practice
 
 <img width="1085" alt="スクリーンショット 2022-11-07 15 24 32" src="https://user-images.githubusercontent.com/25487270/200263244-2a3bda54-0ff5-4a8d-8b0f-f676c830deca.png">
 <img width="1181" alt="スクリーンショット 2022-11-07 15 24 47" src="https://user-images.githubusercontent.com/25487270/200263309-96722b55-50af-49bf-b07c-922f2dd15c5f.png">
